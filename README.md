@@ -1,1 +1,1 @@
-README ver 1.1
+README ver 1.2
